@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<animes>
+	<anime id="1">
+		<title>Jujutsu Kaisen-Season 1</title>
+		<author>Gege Akutami</author>
+		<studio>MAPPA</studio>
+		<episodes>24 Episodes</episodes>
+		<genres>
+			<genre id="1">Adventure</genre>
+			<genre id="2">Dark Fantacy</genre>
+			<genre id="3">Supernatural</genre>
+		</genres>
+	</anime>
+	<anime id="2">
+		<title>Kimetsu no Yaiba-Season 1</title>
+		<author>Koyoharu Gotouge</author>
+		<studio>Ufotable</studio>
+		<episodes>26 Episodes</episodes>
+		<genres>
+			<genre id="1">Adventure</genre>
+			<genre id="2">Dark Fantacy</genre>
+			<genre id="3">Martial Arts</genre>
+		</genres>
+	</anime>
+	<anime id="3">
+		<title>The Rising of the Shield Hero-Season 1</title>
+		<author>Aneko Yusagi</author>
+		<studio>Kinema Citrus</studio>
+		<episodes>25 Episodes</episodes>
+		<genres>
+			<genre id="1">Anime</genre>
+			<genre id="2">Isekai</genre>
+			<genre id="3">Dark Fantacy</genre>
+		</genres>
+	</anime>
+	<anime id="4">
+		<title>My Hero Academia-Season 1</title>
+		<author>Kohei Horikoshi</author>
+		<studio>Bones</studio>
+		<episodes>13 Episodes</episodes>
+		<genres>
+			<genre id="1">Adventure</genre>
+			<genre id="2">Science Fantacy</genre>
+			<genre id="3">Superhero</genre>
+		</genres>
+	</anime>
+	<anime id="5">
+		<title>Fairy Tail-Season 1</title>
+		<author>Hiro Mashima</author>
+		<studio>A-1 Pictures</studio>
+		<episodes>48 Episodes</episodes>
+		<genres>
+			<genre id="1">Adventure</genre>
+			<genre id="2">Fantacy</genre>
+			<genre id="3">Action</genre>
+		</genres>
+	</anime>
+</animes>
